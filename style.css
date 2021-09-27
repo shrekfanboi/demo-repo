@@ -2,3 +2,9 @@
     color: brown;
     font-family: 'Times New Roman', Times, serif;
 }
+
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
